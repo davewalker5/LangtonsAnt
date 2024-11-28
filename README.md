@@ -21,7 +21,7 @@ More information on Langton's Ant, the implementation and how to build and run i
 
 ## Authors
 
-- **Dave Walker** - *Initial work for this implementation* - [LinkedIn](https://www.linkedin.com/in/davewalker5/)
+- **Dave Walker** - *Initial work for this implementation*
 
 ## Feedback
 
